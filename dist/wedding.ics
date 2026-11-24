@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:nagademullu-venkat-laxmi-feast-20261203@wedding
+DTSTAMP:20261122T140000Z
+DTSTART:20261203T133000Z
+STATUS:CONFIRMED
+SUMMARY:Nagademullu & Venkat Laxmi — Wedding feast
+LOCATION:Near the groom’s home\, Burugupalem\, Tattabanda
+GEO:17.7247978;82.7889111
+URL:https://maps.app.goo.gl/GWoBxyeWSPseT3Ud6
+END:VEVENT
+BEGIN:VEVENT
+UID:nagademullu-venkat-laxmi-20261203@wedding
+DTSTAMP:20261122T140000Z
+DTSTART:20261203T231200Z
+STATUS:CONFIRMED
+SUMMARY:Nagademullu & Venkat Laxmi — Wedding Muhurtham
+LOCATION:Near the groom’s home\, Burugupalem\, Tattabanda
+GEO:17.7247978;82.7889111
+URL:https://maps.app.goo.gl/GWoBxyeWSPseT3Ud6
+END:VEVENT
+END:VCALENDAR

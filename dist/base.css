@@ -1,0 +1,4 @@
+@font-face{font-family:"Noto Serif Telugu";src:url("assets/telugu.woff") format("woff");font-display:swap}
+@font-face{font-family:"Telugu Display";src:url("assets/telugu-display.woff") format("woff");font-weight:700;font-display:swap}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0}a{color:inherit;text-decoration:none}img{display:block;width:100%;height:100%;object-fit:cover}h1,h2,h3,p{margin-top:0}button,a{-webkit-tap-highlight-color:transparent}button{font:inherit}button:focus-visible,a:focus-visible{outline:3px solid #b78335;outline-offset:4px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
